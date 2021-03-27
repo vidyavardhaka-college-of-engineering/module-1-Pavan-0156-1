@@ -2,7 +2,7 @@
 //OUTPUT: Product = 2.69
 #include <stdio.h>
 int main() 
-    //correct the code
+    {//correct the code
     double a,b,product;
     printf("enter two numbers: ");
     scanf("%lf%lf",&a,&b);  //correct the code
