@@ -4,7 +4,7 @@
 int main() 
     //correct the code
     double a,b,product;
-    printf("enter two numbers:\n");
+    printf("enter two numbers: ");
     scanf("%lf%lf",&a,&b);  //correct the code
      // Calculating product
     product = a * b;
